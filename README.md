@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ManuBrito7
+-  Sou nova por aqui, estou inician no mundo da programação.
